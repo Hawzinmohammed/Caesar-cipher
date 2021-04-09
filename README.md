@@ -1,9 +1,7 @@
 # Caesar-cipher
 Developed application also has some constraints:
 
-1) You should submit source code of your file and also all files should be in github account
-
-2) Input file should have following structure:
+1) Input file should have following structure:
 
 [Shift Count]:[Encrypt/De-crypt]:[Alphabet 0-4]:Plain text/Cipher Text
 
